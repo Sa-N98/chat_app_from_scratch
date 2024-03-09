@@ -29,7 +29,6 @@ app.component('ticket', {
         data() {
             return {
                   chatActive:false,
-                  chat: {student}
                  };
                 },
         mounted() {},
